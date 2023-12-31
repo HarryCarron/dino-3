@@ -49,5 +49,9 @@
     "typescript": "^5.1.6",
     "vite": "^4.4.9",
     "vitest": "^0.34.1"
+  },
+  "dependencies": {
+    "inversify": "^6.0.2",
+    "reflect-metadata": "^0.2.1"
   }
 }
